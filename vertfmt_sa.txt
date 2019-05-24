@@ -1,0 +1,10 @@
+  12 vertexfmt: 1000005
+  24 vertexfmt: 1000045
+ 658 vertexfmt: 1000505
+12508 vertexfmt: 1000545
+   2 vertexfmt: 1055505
+ 103 vertexfmt: 45
+  12 vertexfmt: 5
+  27 vertexfmt: 505
+2766 vertexfmt: 545
+2060 vertexfmt: 5545
